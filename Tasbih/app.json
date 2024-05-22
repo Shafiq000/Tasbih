@@ -1,0 +1,13 @@
+{
+  "expo": {
+    "name": "Tasbih",
+    "slug": "Tasbih",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "android": {
+      "package": "com.anonymous.Tasbih"
+    }
+  }
+}
